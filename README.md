@@ -1,0 +1,2 @@
+# projet
+resolution de polynomes
